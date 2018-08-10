@@ -18,7 +18,7 @@ Video Demostration: [https://www.youtube.com/watch?v=boUblF9qTB8](https://www.yo
 
 * Arduino Uno or any other
 * 2 Push button R13-502
-* For LCD shield board, can be used LCD Keypad Shield or DIY using:
+* For LCD shield board, can be used [LCD Keypad Shield](https://www.dfrobot.com/wiki/index.php/Arduino_LCD_KeyPad_Shield_(SKU:_DFR0009)) or DIY using:
   * LCD 16x2
   * 6 Tactile Push Button Switch
   * Universal Circuit Board
@@ -34,8 +34,9 @@ The most complicated circuit is the LCD Keypad Shield, if this piece is bought r
 ## 3D parts
 
 Arduino Stand: [https://www.thingiverse.com/thing:3043109](https://www.thingiverse.com/thing:3043109)
+
 Bauhaus Chess Set: [https://www.thingiverse.com/thing:2161468](https://www.thingiverse.com/thing:2161468)
 
 <img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_0231.JPG" />
 <img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_0233.JPG" />
-<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_029.JPG" />
+<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_0029.JPG" />
