@@ -39,4 +39,4 @@ Bauhaus Chess Set: [https://www.thingiverse.com/thing:2161468](https://www.thing
 
 <img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_0231.JPG" />
 <img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_0233.JPG" />
-<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_0029.JPG" />
+<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_0229.JPG" />
