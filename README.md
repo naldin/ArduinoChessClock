@@ -10,7 +10,7 @@ Video Demostration: [https://www.youtube.com/watch?v=boUblF9qTB8](https://www.yo
 
 * Complete timer adjust using keypad to hour, minutes and seconds, of 1 sec up to 10 hours
 * Storage last adjust in eeprom
-* Time control by Sudden Death or Increment of up to 99 min
+* Time control by Sudden Death or Increment of up to 99 seg
 * Pause timer using any keypad key and release using game buttoon
 * Sound to check that game button was pressed and when game is over
 
