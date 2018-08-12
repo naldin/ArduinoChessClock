@@ -18,6 +18,7 @@ Video Demostration: [https://www.youtube.com/watch?v=boUblF9qTB8](https://www.yo
 
 * Arduino Uno or any other
 * 2 Push button R13-502
+* Buzzer
 * For LCD shield board, can be used [LCD Keypad Shield](https://www.dfrobot.com/wiki/index.php/Arduino_LCD_KeyPad_Shield_(SKU:_DFR0009)) or DIY using:
   * LCD 16x2
   * 6 Tactile Push Button Switch
