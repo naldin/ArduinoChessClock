@@ -33,7 +33,14 @@ The most complicated circuit is the LCD Keypad Shield, if this piece is bought r
 
 ## 3D parts
 
-Arduino Stand: [https://www.thingiverse.com/thing:3043109](https://www.thingiverse.com/thing:3043109)
+Arduino Stand Definitive Edition for Arduino Pro Mini: [https://www.thingiverse.com/thing:4710255](https://www.thingiverse.com/thing:4710255)
+
+<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_2802.JPG" />
+<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_2802.JPG" />
+<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_2802.JPG" />
+<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_2802.JPG" />
+
+Arduino Stand for Arduino Uno: [https://www.thingiverse.com/thing:3043109](https://www.thingiverse.com/thing:3043109)
 
 Bauhaus Chess Set: [https://www.thingiverse.com/thing:2161468](https://www.thingiverse.com/thing:2161468)
 
