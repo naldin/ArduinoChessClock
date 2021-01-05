@@ -37,9 +37,9 @@ The most complicated circuit is the LCD Keypad Shield, if this piece is bought r
 Arduino Stand Definitive Edition for Arduino Pro Mini: [https://www.thingiverse.com/thing:4710255](https://www.thingiverse.com/thing:4710255)
 
 <img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_2802.JPG" />
-<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_2802.JPG" />
-<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_2802.JPG" />
-<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_2802.JPG" />
+<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_2803.JPG" />
+<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_2804.JPG" />
+<img src="https://github.com/naldin/ArduinoChessClock/raw/master/IMG_2805.JPG" />
 
 Arduino Stand for Arduino Uno: [https://www.thingiverse.com/thing:3043109](https://www.thingiverse.com/thing:3043109)
 
